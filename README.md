@@ -30,7 +30,6 @@
 ## MODELO DE NEGÓCIO:
   ![Business Model Canvas](images/business-model-canvas.png)
 
-
 ## REQUISITOS:
 1. Requisitos Funcionais:
   - Cadastrar alunos
@@ -74,3 +73,38 @@
 - Nome de cada curso deve ser único
 - Impedir exclusão de cursos que tenham alunos matriculados
 - Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
+
+## CASOS DE USO:
+  ![Casos de uso](images/diagrama-casos-de-uso.png)
+
+## Classes:
+  ![Classes](images/diagrama-classes.png)
+
+## Sequências:
+- Login:
+  
+  ![Login](images/diagrama-sequencia-login.png)
+
+- Cadastro funcionário:
+  
+  ![Cadastro funcionário](images/diagrama-sequencia-cadastro-funcionario.png)
+
+- Cadastro aluno:
+  
+  ![Cadastro aluno](images/diagrama-sequencia-cadastro-aluno.png)
+
+- Cadastro curso:
+  
+  ![Cadastro curso](images/diagrama-sequencia-cadastro-curso.png)
+
+- Lista de funcionários:
+  
+  ![Lista funcionários](images/diagrama-sequencia-lista-funcionários.png)
+
+- Lista de alunos:
+  
+  ![Lista alunos](images/diagrama-sequencia-lista-alunos.png)
+
+- Lista de cursos:
+  
+  ![Lista cursos](images/diagrama-sequencia-lista-cursos.png)
