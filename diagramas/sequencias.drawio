@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="qqFNqyGsElahlQpR2hsd" name="Login">
-        <mxGraphModel dx="1076" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="535" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -138,7 +138,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="0aUqXygNW2HDiItuvocO" name="Cadastro funcionário">
-        <mxGraphModel dx="1076" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="535" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -298,7 +298,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Cadastro aluno" id="LGlkLbt5Xb40fUDpQW2G">
-        <mxGraphModel dx="1076" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="535" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="ssQwlQ23jYiUtO_pUOQJ-0"/>
                 <mxCell id="ssQwlQ23jYiUtO_pUOQJ-1" parent="ssQwlQ23jYiUtO_pUOQJ-0"/>
@@ -2025,7 +2025,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="BAC1" name="Buscar aluno pelo CPF">
-        <mxGraphModel dx="1076" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="535" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="BAC1-0"/>
                 <mxCell id="BAC1-1" parent="BAC1-0"/>
@@ -2137,7 +2137,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="BFN1" name="Buscar funcionário pelo nome">
-        <mxGraphModel dx="1076" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1316" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="BFN1-0"/>
                 <mxCell id="BFN1-1" parent="BFN1-0"/>
@@ -2269,7 +2269,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="BFC1" name="Buscar funcionário pelo CPF">
-        <mxGraphModel dx="1076" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1316" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="BFC1-0"/>
                 <mxCell id="BFC1-1" parent="BFC1-0"/>
@@ -2401,7 +2401,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="RMT1" name="Realizar matrículas">
-        <mxGraphModel dx="1076" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1316" dy="770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="RMT1-0"/>
                 <mxCell id="RMT1-1" parent="RMT1-0"/>

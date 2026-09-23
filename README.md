@@ -75,12 +75,13 @@
 - Impedir exclusão de alunos que estejam matriculados em 1 ou mais cursos
 
 ## CASOS DE USO:
-  ![Casos de uso](images/diagrama-casos-de-uso.png)
+![Casos de uso](images/diagrama-casos-de-uso.png)
 
 ## Classes:
-  ![Classes](images/diagrama-classes.png)
+![Classes](images/diagrama-classes.png)
 
 ## Sequências:
+
 - Login:
   
   ![Login](images/diagrama-sequencia-login.png)
@@ -108,3 +109,56 @@
 - Lista de cursos:
   
   ![Lista cursos](images/diagrama-sequencia-lista-cursos.png)
+
+- Buscar aluno pelo nome:
+  
+  ![Buscar aluno pelo nome](images/buscar-aluno-pelo-nome.png)
+
+- Editar dados do aluno:
+  
+  ![Editar dados do aluno](images/editar-dados-do-aluno.png)
+
+- Editar dados do curso:
+  
+  ![Editar dados do curso](images/editar-dados-do-curso.png)
+
+- Editar dados do funcionário:
+  
+  ![Editar dados do funcionário](images/editar-dados-do-funcionario.png)
+
+- Excluir aluno:
+  
+  ![Excluir aluno](images/excluir-aluno.png)
+
+- Excluir curso:
+  
+  ![Excluir curso](images/excluir-curso.png)
+
+- Mostrar dados de um aluno:
+  
+  ![Mostrar dados de um aluno](images/mostrar-dados-de-um-aluno.png)
+
+- Mostrar dados de um curso:
+  
+  ![Mostrar dados de um curso](images/mostrar-dados-de-um-curso.png)
+
+- Mostrar dados de um funcionário:
+  
+  ![Mostrar dados de um funcionário](images/mostrar-dados-de-um-funcionario.png)
+
+- Buscar aluno pelo CPF:
+
+![Buscar aluno pelo CPF](images/buscar-aluno-pelo-cpf.png)
+
+Buscar funcionário pelo CPF:
+
+![Buscar funcionário pelo CPF](images/buscar-funcionario-pelo-cpf.png)
+
+Buscar funcionário pelo nome:
+
+![Buscar funcionário pelo nome](images/buscar-funcionario-pelo-nome.png)
+
+Realizar matrícula:
+
+![Realizar matrícula](images/realizar-matricula.png)
+
